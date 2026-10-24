@@ -12,6 +12,14 @@
  - JavaScript
  - Python
 
+ ## Extra Skills
+ - Photoshop
+ - Illustrator
+ - After Effects
+ - Premier Pro
+ - InDesign
+ - Figma
+
 ## Current Projects and Interests
  - Web Development: Building and practicing responsive websites using HTML, CSS, and JavaScript.
  - UI/UX Design: Learning how to make websites more user-friendly and accessible.
