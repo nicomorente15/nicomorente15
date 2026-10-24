@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nico Morente!
 
-<!--
-**nicomorente15/nicomorente15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a web developer with a background in Graphic Information Technology. I enjoy combining design and coding to create websites that look good and are easy to use. I'm continuing to learn new technologies and improve my web development skills.
 
-Here are some ideas to get you started:
+## Contact Information
+ - E-mail: nicole.morente15@gmail.com
+ - GitHub: nicomorente15
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding langues
+ - HTML
+ - CSS
+ - JavaScript
+ - Python
+
+## Current Projects and Interests
+ - Web Development: Building and practicing responsive websites using HTML, CSS, and JavaScript.
+ - UI/UX Design: Learning how to make websites more user-friendly and accessible.
+ - Portfolio Development: Showcasing my web development and design projects.
+ - Database Development: Practicing database design and SQL queries.
+
+## Projects
+ - You can find my projects and source code in my GitHub repositories.
+   - [RootedTogether](https://nicomorente15.github.io/rootedtogether/)
+   - [CMC Groups Application Form](https://nicomorente15.github.io/CMC-Application-Form/)
+   - [Basic Website](https://nicomorente15.github.io/path-to-success/)
