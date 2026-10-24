@@ -6,13 +6,13 @@
  - E-mail: nicole.morente15@gmail.com
  - GitHub: nicomorente15
 
-## Coding langues
+## Coding languages
  - HTML
  - CSS
  - JavaScript
  - Python
 
- ## Extra Skills
+ ## Current skill passion
  - Photoshop
  - Illustrator
  - After Effects
