@@ -24,7 +24,6 @@
  - Web Development: Building and practicing responsive websites using HTML, CSS, and JavaScript.
  - UI/UX Design: Learning how to make websites more user-friendly and accessible.
  - Portfolio Development: Showcasing my web development and design projects.
- - Database Development: Practicing database design and SQL queries.
 
 ## Projects
  - You can find my projects and source code in my GitHub repositories.
